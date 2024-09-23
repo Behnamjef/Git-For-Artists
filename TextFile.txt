@@ -1,9 +1,9 @@
-1
-2
-3
+1 Wood
+2 Book
+3 Keyboard
 4 Dog
-5
-6
+5 Glass
+6 Tea
 7
 8 Cat
 9
